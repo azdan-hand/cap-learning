@@ -1,3 +1,5 @@
+package day_2.java_singleobj;
+
 // Main class
 public class Main {
     // assigning the integer value 5 to the variable x
