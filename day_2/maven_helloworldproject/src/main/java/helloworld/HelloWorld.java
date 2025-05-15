@@ -1,4 +1,4 @@
-package day_2.maven_helloworldproject.src.main.java.helloworld;
+package helloworld;
 
 public class HelloWorld {
     public static void main(String args[]){
