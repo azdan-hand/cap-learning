@@ -1,4 +1,4 @@
-DELETE http://localhost:8080/odata/v4/DemoService/DemoEntity
+POST http://localhost:8080/odata/v4/DemoService/DemoEntity
 Content-Type: application/json
 
-{"ID":3,"title":"test3","descr":" Desc of test3"}
+{"ID":1,"title":"test1","descr":" Desc of test1"}
