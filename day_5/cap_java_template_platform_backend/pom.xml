@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.win</groupId>
-	<artifactId>template_platform-parent</artifactId>
+	<artifactId>bookstore-parent</artifactId>
 	<version>${revision}</version>
 	<packaging>pom</packaging>
 
-	<name>template_platform parent</name>
+	<name>bookstore parent</name>
 
 	<properties>
 		<!-- OUR VERSION -->
